@@ -1,0 +1,4 @@
+{
+  "positional_embedding": "rope",
+  "decoding_strategy" : "beam"
+}
